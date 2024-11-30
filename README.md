@@ -26,5 +26,4 @@ The K-Nearest Neighbors algorithm effectively classified wine samples into three
 
 Contact:
 If you have any suggestions or feedback, feel free to reach out:
-Email: talithaalmira04@gmail.com <br>
-LinkedIn: www.linkedin.com/in/talithaalmirazada
+Email: talithaalmira04@gmail.com LinkedIn: www.linkedin.com/in/talithaalmirazada
